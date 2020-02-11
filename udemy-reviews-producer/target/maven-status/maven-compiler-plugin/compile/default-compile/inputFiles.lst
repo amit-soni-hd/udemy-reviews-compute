@@ -1,0 +1,9 @@
+/home/amit_verma/Desktop/kafka-videos/kafka-course-projects/schema-registry&rest-proxy/udemy-blog-kafka-medium/udemy-reviews-producer/src/main/java/com/github/amitsoni/kafka/producer/udemy/config/AppConfig.java
+/home/amit_verma/Desktop/kafka-videos/kafka-course-projects/schema-registry&rest-proxy/udemy-blog-kafka-medium/udemy-reviews-producer/src/main/java/com/github/amitsoni/kafka/producer/udemy/Application.java
+/home/amit_verma/Desktop/kafka-videos/kafka-course-projects/schema-registry&rest-proxy/udemy-blog-kafka-medium/udemy-reviews-producer/src/main/java/com/github/amitsoni/kafka/producer/udemy/runnable/ReviewsProducerThread.java
+/home/amit_verma/Desktop/kafka-videos/kafka-course-projects/schema-registry&rest-proxy/udemy-blog-kafka-medium/udemy-reviews-producer/src/main/java/com/github/amitsoni/kafka/producer/udemy/model/ReviewApiResponse.java
+/home/amit_verma/Desktop/kafka-videos/kafka-course-projects/schema-registry&rest-proxy/udemy-blog-kafka-medium/udemy-reviews-producer/src/main/java/com/github/amitsoni/kafka/producer/udemy/client/UdemyRestApiClient.java
+/home/amit_verma/Desktop/kafka-videos/kafka-course-projects/schema-registry&rest-proxy/udemy-blog-kafka-medium/udemy-reviews-producer/target/generated-sources/avro/com/github/amitsoni/avro/udemy/User.java
+/home/amit_verma/Desktop/kafka-videos/kafka-course-projects/schema-registry&rest-proxy/udemy-blog-kafka-medium/udemy-reviews-producer/target/generated-sources/avro/com/github/amitsoni/avro/udemy/Course.java
+/home/amit_verma/Desktop/kafka-videos/kafka-course-projects/schema-registry&rest-proxy/udemy-blog-kafka-medium/udemy-reviews-producer/src/main/java/com/github/amitsoni/kafka/producer/udemy/runnable/ReviewsFetcherThread.java
+/home/amit_verma/Desktop/kafka-videos/kafka-course-projects/schema-registry&rest-proxy/udemy-blog-kafka-medium/udemy-reviews-producer/target/generated-sources/avro/com/github/amitsoni/avro/udemy/Review.java

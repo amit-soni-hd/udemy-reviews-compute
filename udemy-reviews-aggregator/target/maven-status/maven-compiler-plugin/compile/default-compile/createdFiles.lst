@@ -1,0 +1,7 @@
+com/github/amitsoni/kafka/stream/udemy/aggregator/config/AppConfig.class
+com/github/amitsoni/kafka/stream/udemy/aggregator/Application.class
+com/github/amitsoni/kafka/stream/udemy/aggregator/aggregator/Aggregator.class
+com/github/amitsoni/avro/udemy/CourseStatistic.class
+com/github/amitsoni/avro/udemy/CourseStatistic$Builder.class
+com/github/amitsoni/kafka/stream/udemy/aggregator/timestamp/ReviewTimestampExtractor.class
+com/github/amitsoni/avro/udemy/CourseStatistic$1.class

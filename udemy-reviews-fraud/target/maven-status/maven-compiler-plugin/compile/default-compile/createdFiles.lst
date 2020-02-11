@@ -1,0 +1,3 @@
+com/github/amitsoni/kafka/stream/udemy/fraud/config/AppConfig.class
+com/github/amitsoni/kafka/stream/udemy/fraud/Application.class
+com/github/amitsoni/kafka/stream/udemy/fraud/detector/ReviewDetector.class

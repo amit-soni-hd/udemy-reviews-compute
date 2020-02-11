@@ -1,0 +1,15 @@
+com/github/amitsoni/avro/udemy/Review$Builder.class
+com/github/amitsoni/avro/udemy/Course$Builder.class
+com/github/amitsoni/kafka/producer/udemy/runnable/ReviewsProducerThread.class
+com/github/amitsoni/kafka/producer/udemy/runnable/ReviewsFetcherThread.class
+com/github/amitsoni/kafka/producer/udemy/client/UdemyRestApiClient.class
+com/github/amitsoni/kafka/producer/udemy/Application.class
+com/github/amitsoni/avro/udemy/Review.class
+com/github/amitsoni/kafka/producer/udemy/config/AppConfig.class
+com/github/amitsoni/avro/udemy/Course.class
+com/github/amitsoni/avro/udemy/Course$1.class
+com/github/amitsoni/avro/udemy/User.class
+com/github/amitsoni/avro/udemy/Review$1.class
+com/github/amitsoni/avro/udemy/User$Builder.class
+com/github/amitsoni/kafka/producer/udemy/model/ReviewApiResponse.class
+com/github/amitsoni/avro/udemy/User$1.class
